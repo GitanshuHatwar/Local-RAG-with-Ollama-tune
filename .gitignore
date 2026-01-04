@@ -4,3 +4,4 @@ __pycache__/
 /datasets
 /chroma_db
 snapshot.txt
+myvenv
